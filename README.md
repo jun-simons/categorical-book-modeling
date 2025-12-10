@@ -4,7 +4,8 @@ Code for exploratory data analysis and model creation are in *book_analysis.ipyn
 
 *RPI - Data Science*
 
-Jun Simons
-Shanelle Kan
-Sophia Lin
-Angela Immanuel
+**Team 9**:
+- Sophia Lin
+- Angela Immanuel
+- Shanelle Kan
+- Jun Simons
